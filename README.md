@@ -1,13 +1,19 @@
 Some ggplot2 examples in R, including:
 
-![](vhLine/2.png)
-**
+ - confInterval
+![](confInterval/2.png = 300x300)
 
-variWidth/mosaicChart/4.png
+ - variWidth/mosaicChart
+![](variWidth/mosaicChart/4.png = 300x300)
 
-confInterval/2.png
+ - barPlot
+![](barPlot/1.png = 300x300)
 
+ - barPlot
+![](barPlot/3.png = 300x300)
 
+ - barPlot
+![](barPlot/6.png = 300x300)
 
+and so on, please enjoy :)
 
-and so on, please enjoy.
