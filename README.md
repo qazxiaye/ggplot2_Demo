@@ -20,5 +20,13 @@ Some ggplot2 examples in R, including:
 
  <img src="./barPlot/6.png" width = "500" height = "500" alt="" align=center />
 
+ - compose/scores
+
+ <img src="./compose/scores/1.png" width = "500" height = "500" alt="" align=center />
+
+ - compose/scores
+
+ <img src="./compose/scores/5.png" width = "500" height = "500" alt="" align=center />
+
 and so on, please enjoy :)
 
