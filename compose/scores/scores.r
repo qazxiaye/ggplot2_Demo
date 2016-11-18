@@ -1,3 +1,6 @@
+# Copyright @ Ye XIA <qazxiaye@126.com>
+# data comes from course Méthodologie expérimentale pour la recherche - approches qualitatives et quantitatives
+
 library(ggplot2)
 library(reshape)
 
