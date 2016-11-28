@@ -28,5 +28,13 @@ Some ggplot2 examples in R, including:
 
  <img src="./compose/scores/5.png" width = "500" height = "500" alt="" align=center />
 
+ - compose/diamond
+
+ <img src="./compose/diamond/11.png" width = "500" height = "500" alt="" align=center />
+
+ - compose/diamond
+
+ <img src="./compose/diamond/12.png" width = "500" height = "500" alt="" align=center />
+
 and so on, please enjoy :)
 
